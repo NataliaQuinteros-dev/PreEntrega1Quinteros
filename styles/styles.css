@@ -1,0 +1,64 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.barraLogo{
+    text-align: center;
+}
+nav{
+    background-color: #BDAD4B;
+}
+nav ul{
+    list-style-type: none;
+    text-align: center;
+}
+nav li{
+    display: inline;
+}
+li a{
+    text-decoration: none;
+    text-align: center;
+    color: #1C00FF;
+    font-size: 20px;
+}
+main{
+    background-color:#7D7751 ;
+    font-family: 'Courier New', Courier, monospace;
+}
+main h1{
+    font-size: larger;
+}
+
+footer{
+    background-color: #FCDF26;
+    font-family:'Lucida Sans', Arial, sans-serif;
+    font-size: 14px;
+}
+
+#logoInstagram{
+    width: 30px;
+}
+.fotos{
+    text-align: center;
+}
+.fotos img{
+    width: 200px;
+}
+.tablaDeTalles img{
+    width: 500px;
+}
+.comoRealizarPedido{
+    margin-left: 20px;
+}
+.comoSaberTalle{
+    margin-left: 20px;
+}
+.caracteristicas{
+    margin-left: 15px;
+}
+.beneficios{
+    margin-left: 15px;
+}
+.contacto{
+    margin-left: 10px;
+}
