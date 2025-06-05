@@ -1,0 +1,61 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.barraLogo{
+    height: 25vh;
+    text-align: center;
+    background-color: #DB0900;
+
+}
+nav{
+    background-color: black;
+    
+}
+nav ul{
+    list-style-type: none;
+    text-align: center;
+}
+nav li{
+    display: inline;
+}
+li a{
+    text-decoration: none;
+    text-align: center;
+    color: aliceblue;
+    font-size: 1.75em;
+    padding-left: 5px;
+    padding-right: 5px;
+    font-family: "Merienda", cursive;
+}
+main{
+    background-color: #E3E8E6;
+    font-family: "Satisfy", cursive;
+    font-size: 1.25em;
+    padding-left: 30px;
+}
+
+main h1{
+    font-size: 2em;
+}
+
+footer{
+    background-color: #DB0900;
+    font-family:monospace;
+    font-size: 14px;
+    padding-left: 5px;
+}
+
+#logoInstagram{
+    width: 30px;
+}
+.fotos{
+    text-align: center;
+    padding:0;
+}
+.fotos img{
+    width: 200px;
+}
+.tablaDeTalles img{
+    width: 500px;
+}
